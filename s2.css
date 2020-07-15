@@ -1,0 +1,124 @@
+*{
+    font-family: "montserrat",sans-serif;
+}
+body{
+    background: url(2.jpg);
+
+}
+.f{
+    color: rgb(77, 44, 44);
+    border-radius:50px;
+    position:absolute;
+   bottom:100px;
+    left: 30px;
+    top: 300px; 
+    background-color: rgba(0, 0, 0, 0.14); 
+    padding: 70px 70px;   
+}
+.logo{
+      
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    top:200px;
+    left:30px;
+      
+}
+.button{
+     
+    border-radius:50px;
+    position:absolute;
+   bottom:100px;
+    left: 30px;
+    top: 200px; 
+    background-color: rgba(0, 0, 0, 0.14); 
+    padding: 70px 50px;  
+}
+
+
+
+.but1{ 
+    border 1 px solid #ff0000;
+    padding: 15px;
+    color: #fff;
+    background:#ff0000;
+    border-radius: 5px;
+    transition: all 0.5s;  
+   
+}
+.but1:hover{ 
+    border 1 px solid #ff0000;
+    padding: 15px;
+    color:#ff0000 ;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
+.but2{ 
+    border 1 px solid #ff4500;
+    padding: 15px;
+    color: #fff;
+    background:#ff4500;
+    border-radius: 5px;
+    transition: all 0.5s; 
+   
+   
+}
+.but2:hover{ 
+    border 1 px solid #ff4500;
+    padding: 15px;
+    color: #ff4500;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
+.but3{ 
+    border 1 px solid #ffD700;
+    padding: 15px;
+    color: #fff;
+    background:#DAA520;
+    border-radius: 5px;
+    transition: all 0.5s; 
+}
+.but3:hover{ 
+    border 1 px solid #ffD700;
+    padding: 15px;
+    color:#DAA520;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
+.but4{ 
+    border 1 px solid #2E8B57;
+    padding: 15px;
+    color: #fff;
+    background:#2E8B57;
+    border-radius: 5px;
+    transition: all 0.5s;
+ 
+}
+.but4:hover{ 
+    border 1 px solid #2E8B57;
+    padding: 15px;
+    color: #2E8B57;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
+.but5{ 
+    border 1 px solid #4682B4;
+    padding: 15px;
+    color: #fff;
+    background:#4682B4;
+    border-radius: 5px;
+    transition: all 0.5s;
+
+}
+.but5:hover{ 
+    border 1 px solid #4682B4;
+    padding: 15px;
+    color: #4682B4;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
